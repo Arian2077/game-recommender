@@ -1,0 +1,44 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# -----------------------------
+# Django
+# -----------------------------
+db.sqlite3
+media/
+staticfiles/
+
+# Local environment files
+*.env
+.env.*
+
+# -----------------------------
+# React / Node
+# -----------------------------
+node_modules/
+dist/
+build/
+*.log
+
+# Vite
+.vite/
+
+# -----------------------------
+# System / Editor files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Docker
+# -----------------------------
+/docker-data/
