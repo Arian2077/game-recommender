@@ -9,5 +9,5 @@ router.register('games', GameViewSet)
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
-    path('api/recommend/', recommend_games),
+    path('recommend/', recommend_games),
 ]
