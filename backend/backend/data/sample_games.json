@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Witcher 3",
+    "genres": ["RPG", "Adventure"],
+    "platform": "PC",
+    "release_year": 2015
+  },
+  {
+    "title": "Minecraft",
+    "genres": ["Sandbox", "Survival"],
+    "platform": "PC",
+    "release_year": 2011
+  },
+  {
+    "title": "Overwatch",
+    "genres": ["Shooter", "Multiplayer"],
+    "platform": "PC",
+    "release_year": 2016
+  },
+  {
+    "title": "Stardew Valley",
+    "genres": ["Simulation", "RPG"],
+    "platform": "PC",
+    "release_year": 2016
+  },
+  {
+    "title": "Fortnite",
+    "genres": ["Battle Royale", "Shooter"],
+    "platform": "PC",
+    "release_year": 2017
+  }
+]
